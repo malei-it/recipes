@@ -1,0 +1,12 @@
+.menu {
+  display: flex;
+  justify-content: center;
+  padding: 20px 0;
+  background-color: #f2f2f2;
+}
+.random,
+.favourite {
+  margin: 0 40px 0 40px;
+  text-decoration: none;
+  color: black;
+}
